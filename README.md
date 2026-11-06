@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/a6/2c/d1/a62cd1ecab67fd6e70e61bf9b33b6a76.jpg" width="100%" height="200" alt="Banner QA Pixel Art Grande"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE_RmChStr4VQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725327553489?e=1795651200&v=beta&t=Ag_KI2RG76YWHPSZr1gFQMxaAPjDT5VYh0tmKJ-aIHA" width="100%" height="200" alt="Banner QA Pixel Art Grande"/>
   <br/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=580&lines=Olá,+seja+bem-vindo(a)!;Especialista+em+Qualidade+de+Software;Garantindo+excelência+em+cada+detalhe..." alt="Typing SVG" />
